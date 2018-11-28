@@ -1,0 +1,175 @@
+{
+	"data1": {
+		"allgames": {
+			"game1": {
+				"date": "28/04/2018",
+				"side1": {
+					"name": "Hamburger SV",
+					"goals": [{
+							"goalby": "B. Wood",
+							"goaltime": "43"
+						},
+						{
+							"goalby": "L. Holtby",
+							"goaltime": "45+1"
+						},
+						{
+							"goalby": "L. Waldschmidt",
+							"goaltime": "90+3"
+						}
+					],
+					"possession": 50,
+					"total_passes": 376
+				},
+				"side2": {
+					"name": "Wolfsburg",
+					"goals": [{
+						"goalby": "J. Brekalo",
+						"goaltime": "78"
+					}],
+					"possession": 50,
+					"total_passes": 360
+				}
+			},
+			"game2": {
+				"date": "31/03/2018",
+				"side1": {
+					"name": "FC Bayern Munich",
+					"goals": [
+						{
+							"goalby": "Robert Lewandowski",
+							"goaltime": "5"
+						},
+						{
+							"goalby": "James Rodríguez",
+							"goaltime": "14"
+						},
+						{
+							"goalby": "Thomas Müller",
+							"goaltime": "23"
+						},
+						{
+							"goalby": "Robert Lewandowski",
+							"goaltime": "44"
+						},
+						{
+							"goalby": "Franck Ribéry",
+							"goaltime": "45+1"
+						},
+						{
+							"goalby": "Robert Lewandowski",
+							"goaltime": "87"
+						}
+					],
+					"possession": 60,
+					"total_passes": 681
+				},
+				"side2": {
+					"name": "Borussia Dortmund",
+					"goals": [],
+					"possession": 40,
+					"total_passes": 453
+				}
+			},
+            "game3": {
+                "date": "24/04/2018",
+                "side1": {
+                    "name": "Liverpool F.C.",
+                    "goals": [{
+                            "goalby": "Mohamed Salah",
+                            "goaltime": "35"
+                        },
+                        {
+                            "goalby": "Mohamed Salah",
+                            "goaltime": "45"
+                        },
+                        {
+                            "goalby": "Sadio Mané",
+                            "goaltime": "56"
+                        },
+                        {
+                            "goalby": "Roberto Firmino",
+                            "goaltime": "61"
+                        },
+                        {
+                            "goalby": "Roberto Frimino",
+                            "goaltime": "68"
+                        }
+                    ],
+                    "possession": 49,
+                    "total_passes": 439
+                },
+                "side2": {
+                    "name": "A.S. Roma",
+                    "goals": [{
+                            "goalby": "Edin Džeko",
+                            "goaltime": "81"
+                        },
+                        {
+                            "goalby": "Diego Perotti",
+                            "goaltime": "85 (penalty goal)"
+                        }
+                    ],
+                    "possession": 51,
+                    "total_passes": 452
+					}
+				}
+		},
+		"allteams": {
+			"team1": {
+				"name": "Hamburger SV",
+				"country": "Germany",
+				"manager": "Christian Titz",
+				"players": {
+					"player1": "J. Pollersbeck",
+					"player2": "Douglas Santos"
+				}
+			},
+			"team2": {
+				"name": "Wolfsburg",
+				"country": "Germany",
+				"manager": "Bruno Labbadia",
+				"players": {
+					"player1": "K. Casteels",
+					"player2": "William"
+				}
+			},
+			"team3": {
+				"name": "Borussia Dortmund",
+				"country": "Germany",
+				"manager": "Peter Stöger",
+				"players": {
+					"player1": "Marco Reus",
+					"player2": "Roman Weidenfeller"
+				}
+			},
+			"team4": {
+				"name": "FC Bayern Munich",
+				"country": "Germany",
+				"manager": "Josef 'Jupp' Heynckes ",
+				"players": {
+					"player1": "Arjen Robben",
+					"player2": "Franck Ribéry"
+				}
+			},
+			"team5": {
+				"name": "Liverpool F.C.",
+				"country": "England",
+				"manager": "Jürgen Klopp",
+				"players": {
+					"player1": "Adam Lallana",
+					"player2": "Alex Oxlade-Chamberlain"
+				}
+			},
+			"team6": {
+				"name": "A.S. Roma",
+				"country": "Italy",
+				"manager": "Eusebio Di Francesco",
+				"players": {
+					"player1": "Daniele De Rossi",
+					"player2": "Stephan El Shaarawy"
+				}
+			}
+		}
+	}
+}
